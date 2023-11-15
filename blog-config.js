@@ -1,10 +1,11 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "jongho",
+  description:
+    "Hello. I'm Backend Developer and also want to be able to develop other things too.",
+  author: "jongho",
+  siteUrl: "https://github.com/jonghodev/my-blog.git",
   links: {
-    github: "https://github.com/devHudi",
+    github: "https://github.com/jonghodev",
     linkedIn: "https://linkedin.com",
     facebook: "https://www.facebook.com",
     twitter: "https://twitter.com",

@@ -3,8 +3,9 @@ title: OS (15) Dynamic Loading/Linking, Swappping
 date: 2020-12-03 13:00:00
 update: 2020-12-03 13:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 동적 적재 (Dynamic Loading)

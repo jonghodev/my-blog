@@ -3,8 +3,9 @@ title: OS (2) OS History
 date: 2020-11-17 10:11:82
 update: 2020-11-17 10:11:82
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## Batch processing system

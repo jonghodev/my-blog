@@ -3,8 +3,9 @@ title: OS (7) Process Queue
 date: 2020-11-22 16:00:00
 update: 2020-11-22 16:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ![](./images/2020-11-22-queue.png)

@@ -3,8 +3,9 @@ title: OS (20) Page Size
 date: 2020-12-08 07:00:00
 update: 2020-12-08 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 일반적 크기: 4KB -> 4MB

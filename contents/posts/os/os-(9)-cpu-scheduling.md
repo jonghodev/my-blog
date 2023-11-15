@@ -3,8 +3,9 @@ title: OS (9) CPU scheduling
 date: 2020-11-24 07:00:00
 update: 2020-11-24 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 CPU Scheduling 은 Ready Queue 에서 어떤 Job 이 CPU 의 실행이 될지 정한다.

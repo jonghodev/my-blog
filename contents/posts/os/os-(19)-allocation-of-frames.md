@@ -3,8 +3,9 @@ title: OS (19) Allocation of Frames
 date: 2020-12-07 00:00:00
 update: 2020-12-07 00:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 쓰레싱 (Thrashing)

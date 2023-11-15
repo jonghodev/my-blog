@@ -3,8 +3,9 @@ title: OS (13) Deadlocks
 date: 2020-12-01 10:50:00
 update: 2020-12-01 10:50:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 정리를 한 번 하고 시작하자.

@@ -3,8 +3,9 @@ title: OS (12) Process synchronization
 date: 2020-11-27 07:00:00
 update: 2020-11-27 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## Process Synchronization (cf. Thread Synchronization)

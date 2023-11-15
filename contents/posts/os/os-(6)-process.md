@@ -3,8 +3,9 @@ title: OS (6) Process
 date: 2020-11-21 19:00:00
 update: 2020-11-21 19:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## Program vs Process

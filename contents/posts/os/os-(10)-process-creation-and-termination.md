@@ -3,8 +3,9 @@ title: OS (10) Process creation and termination
 date: 2020-11-25 07:00:00
 update: 2020-11-25 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 프로세스는 프로세스에 의해 만들어진다. 즉 부모 프로세스에 의해 만들어진다고 할 수 있다.

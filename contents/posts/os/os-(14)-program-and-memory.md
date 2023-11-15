@@ -3,8 +3,9 @@ title: OS (14) Program and Memory
 date: 2020-12-02 11:00:00
 update: 2020-12-02 11:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 메모리는 언제나 부족하다. 어떻게 하면 메모리를 효과적으로 사용할 수 있을까?

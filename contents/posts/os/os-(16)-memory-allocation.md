@@ -3,8 +3,9 @@ title: OS (16) Memory Allocation
 date: 2020-12-04 07:00:00
 update: 2020-12-04 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 메모리 할당에 대해서 알아보자. 과거의 방법부터 현대의 방법까지 알아보자.

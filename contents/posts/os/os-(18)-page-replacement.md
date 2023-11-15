@@ -3,8 +3,9 @@ title: OS (18) Page Replacement
 date: 2020-12-06 00:20:00
 update: 2020-12-06 00:20:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 페이지 교체

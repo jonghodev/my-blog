@@ -3,8 +3,9 @@ title: OS (0) Why OS Important?
 date: 2020-11-15 10:11:75
 update: 2020-11-15 10:11:75
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 OS 는 중요하다.

@@ -3,8 +3,9 @@ title: OS (21) File Allocation
 date: 2020-12-09 07:00:00
 update: 2020-12-09 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 하드 디스크 구조

@@ -3,8 +3,9 @@ title: OS (1) OS Introduction
 date: 2020-11-16 07:00:00
 update: 2020-11-16 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 1. OS 란?

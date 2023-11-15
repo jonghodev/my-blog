@@ -3,8 +3,9 @@ title: OS (17) Virtual Memory
 date: 2020-12-05 11:00:00
 update: 2020-12-05 11:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 만약 100MB 메인 메모리에서 200MB 크기의 프로세스를 실행하려한다면 어떻게 해야할까?

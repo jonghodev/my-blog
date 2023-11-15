@@ -3,8 +3,9 @@ title: OS (11) Thread
 date: 2020-11-26 12:37:00
 update: 2020-11-26 12:37:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ### 쓰레드

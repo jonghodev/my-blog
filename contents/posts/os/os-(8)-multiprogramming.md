@@ -3,8 +3,9 @@ title: OS (8) Multiprogramming
 date: 2020-11-23 10:30:00
 update: 2020-11-23 10:30:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 메인 메모리에 여러 프로그램을 올리는 것을 말한다.

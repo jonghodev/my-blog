@@ -3,8 +3,9 @@ title: OS (5) 운영체제 서비스
 date: 2020-11-20 09:00:00
 update: 2020-11-20 09:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## Process management

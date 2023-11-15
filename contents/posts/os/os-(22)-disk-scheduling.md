@@ -3,8 +3,9 @@ title: OS (22) Disk Scheduling
 date: 2020-12-10 07:00:00
 update: 2020-12-10 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 - 디스크 접근 시간

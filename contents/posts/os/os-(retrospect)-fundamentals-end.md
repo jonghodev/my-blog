@@ -3,8 +3,9 @@ title: OS (retrospect) fundamentals end
 date: 2020-12-06 22:12:12
 update: 2020-12-06 22:12:12
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 [여기서](</os/os-(0)-OS-가-왜-중요할까/>)부터 시작해서 **3주**란 시간 동안 경성대학교 양희재 교수님이 수업하시는 [강의](http://www.kocw.net/home/search/kemView.do?kemId=978503)를 통해 기본 OS 를 공부했다.

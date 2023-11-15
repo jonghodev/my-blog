@@ -3,8 +3,9 @@ title: OS (4) Dual mode and Hardware protection
 date: 2020-11-19 07:00:00
 update: 2020-11-19 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 이중모드

@@ -3,8 +3,9 @@ title: OS (3) Modern OS
 date: 2020-11-18 07:00:00
 update: 2020-11-18 07:00:00
 tags:
- - os
+  - os
 description:
+series: OS 강의
 ---
 
 ## 다중 프로세서 시스템 (Multiprocessor system)

@@ -3,7 +3,7 @@ module.exports = {
   description:
     "Hello. I'm Backend Developer and also want to be able to develop other things too.",
   author: "jongho",
-  siteUrl: "https://github.com/jonghodev/my-blog.git",
+  siteUrl: "https://jonghodev.netlify.app",
   links: {
     github: "https://github.com/jonghodev",
     linkedIn: "https://linkedin.com",
